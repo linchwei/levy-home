@@ -5,12 +5,12 @@
 
 <script>
 export default {
-  head () {
+  head() {
     return {
-      title: 'levy 站点'
-    }
-  }
-}
+      title: 'levy 站点',
+    };
+  },
+};
 </script>
 
 <style lang="scss" scoped>
